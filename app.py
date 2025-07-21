@@ -11,6 +11,9 @@ import random
 app = Flask(__name__, static_folder='static')
 
 # Load NLP resources
+nltk.download('popular')
+nltk.download('punkt')
+nltk.download('wordnet')
 nltk.download('punkt_tab')
 lemmatizer = WordNetLemmatizer()
 
