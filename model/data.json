@@ -174,7 +174,6 @@
           "5"
       ],
       "responses": [
-        "<b>BREAKING NEWS</b>\n Persija.id - Persija dan PT Mass Rapid Transit Jakarta (MRT Jakarta) secara resmi menandatangani nota kesepahaman (MoU) kerja sama strategis sepanjang Liga 1 2025/2026. Keduanya kini melaju di rel yang sama untuk menuju Jakarta masa depan yang gemilang.\n\n Penandatanganan kerja sama yang hadir di Stasiun MRT Bundaran HI, Jakarta, Jumat (4/7/2025), ini menjadi wujud komitmen Persija dan MRT Jakarta dalam memperkuat kolaborasi antara sektor transportasi publik dan olahraga profesional di Jakarta.\n\nPersija dan MRT Jakarta ingin menjadikan setiap perjalanan suporter, the Jakmania, kala menuju dan kembali dari stadion sebagai bagian dari pengalaman menonton yang aman, nyaman, dan penuh makna.",
         "<b>BREAKING NEWS</b>\n Persija.id - Belum sekali pun Gustavo Franca menapakkan kakinya di Jakarta, belum pula ia menyelami riuh-padat kota metropolitan. Namun ketika undangan itu hadir, ia tak ragu, ia tak gamang, dan akhirnya menerima. Dirinya percaya ada benang takdir yang menariknya ke Jakarta, sejalan dengan ambisi Persija dan cita-citanya. Super League 2025/2026 akan menjadi gelanggang yang spesial dalam kebersamaan Persija dan Franca. Kehadirannya melengkapi mozaik lini tengah Macan Kemayoran. Namanya harum sebagai pengatur serangan yang piawai membaca permainan, sekaligus punya daya jelajah ke sisi-sisi lapangan. Di kakinya, bola tak sekadar bergerak, tetapi mengalir lincah, berujung umpan tajam, dan eksekusi bola mati yang bisa menjadi pembeda di sore-malam yang sulit. Sebelum akhirnya berlabuh di Persija, pemain kelahiran Sao Paulo, 24 April 1998, itu sudah ditempa di Serie C dan B Brasil, serta sempat merasakan atmosfer divisi utama Liga Malta. Dimulai dari Corinthians (2016), Floriana (2017), Inter U-23 (2020), Metropolitano (2020-2021), America RJ (2021), Paraná (2021-2022), Portuguesa (2022), ABC FC (2022), Portuguesa (2022-2023), Figueirense FC (2023), Guarani (2024), hingga Londrina PR (2024-2025). Bersama Londrina di musim 2025, ia tampil sebanyak 25 kali dengan catatan empat gol dan satu assist.",
         "<b>BREAKING NEWS</b>\n Persija.id - Persija secara resmi mengumumkan kerja sama sponsorship dengan PAM JAYA, perusahaan daerah yang bergerak di bidang penyediaan air minum di DKI Jakarta. Kolaborasi ini adalah simpul pertemuan dua institusi kebanggaan kota yang menyatu demi satu tujuan mulia, yaitu menghadirkan arti bagi warganya.\n\nKamis (3/7/2025) siang di Jakarta Pusat, di kantor PAM JAYA, sebuah kesepakatan resmi dituangkan dalam tinta di forum bertajuk Nota Kesepahaman antara Perusahaan Umum Daerah Air Minum Jaya dan Persija tentang Kerja Sama Sponsorhip Untuk Kampanye Edukasi Publik PAM JAYA Mengenai Air Bersih dan Sanitasi Melalui Platform Olahraga Sepak Bola. Persija dan PAM JAYA bergandeng tangan sebagai penanda awal kerja sama yang akan mengalir sepanjang Liga 1 2025/2026.\n\nDalam kolaborasi ini, Persija dan PAM JAYA tidak sekadar berbagi ruang promosi, tetapi berbagi cita-cita. Bahwa sepak bola bukan hanya tentang menang atau kalah, dan air bukan hanya tentang mengalir atau tidak. Keduanya adalah tentang hidup."
       ]
@@ -313,10 +312,12 @@
         "staf persija siapa aja",
         "offcial persija",
         "officials",
-        "staf persija"
+        "siapa staf persija",
+        "siapa pelatih kiper persija",
+        "siapa pelatih pelatih fisik"
       ],
       "responses": [
-        "<b>Berikut official persija musim 2024/25</b> :\nCarlos Pena : Head Coach\nRicky Nelson : Assistant Coach\nRobert Carl Morledge : Physical Coach\nHendro Kartiko : GK Coach\nIlham Ralibi : Physical Coach\nBambang Pamungkas : Team Manager\nRegi Hariansyah : Team Secretary\nKukuh Wahyudi : Media Officer\nMuhammad Andeansyah : Team Doctor\nJeremia Halomoan : Physiotherapist\nYanizar Lubis : Physiotherapist\nAkhmad Aditya Subkhi : Masseur\nAditya Yulistyawan : Masseur\nDzikri Lazuardi Z : Analyst\nPetrick Herberth : Analyst\nCandra Darmawan : Kitman\nAries Tri Kurniawan : Kitman\nKhairul Imam : Photographer\nYudistira Achmad : Videographer"
+        "Daftar Staf/Officials Persija Jakarta musim 2025/2026:\n\n<b>Staf Kepelatihan:</b>\n- Maurício Souza (Pelatih Kepala)\n- Ricky Nelson (Pelatih Interim)\n- Sopian Hadi (Asisten Pelatih)\n- Ricky Nelson (Asisten Pelatih)\n- Gerson Rodrigues (Pelatih Kiper)\n- Ilham Ralibi (Pelatih Fisik)\n- Dzikry Lazuardi (Video Analis)\n- Italo Resende (Video Analis)\n- Caio Vito (Video Analis)\n\n<b>Dewan Direksi:</b>\n- Mohammad Prapanca (Direktur Umum)\n\n<b>Departemen Medis:</b>\n- Emilia Achmadi (Ahli Gizi)\n\n<b>Lainnya:</b>\n- Bambang Pamungkas (Manajer Tim)\n- Claudio Luzardi (Penerjemah)\n\n<b>Staf Muda:</b>\n- Ambono Janurianto (Direktur Pengembangan)\n- Ricky Nelson (Direktur Akademi)\n- Maean Abdurrahman (Pelatih Tim Junior)\n- Ramdani Lestaluhu (Pelatih Tim Junior)"
       ]
     },
     {
@@ -415,7 +416,7 @@
   "berapa jumlah pemain non lokal di Persija?"
       ],
       "responses": [
-        "Persija memiliki beberapa pemain asing, termasuk\nCarlos Eduardo\nRyo Matsumura\nGustavo\nSousa\nFabio Silva."
+        "Persija memiliki beberapa pemain asing, termasuk\n- Carlos Eduardo\n- Ryo Matsumura\n- Gustavo\n- Sousa\n- Fabio Silva.\n- Gustavo Franca"
       ]
     },
     {
@@ -467,8 +468,34 @@
         "siapa pemain persija jakarta"
       ],
       "responses": [
-        "Daftar Pemain Persija Jakarta musim 2025/2026:\n\n<b>Kiper:</b>\n- Andritany (No. 26)\n- Carlos Eduardo (No. 1)\n- Hafizh Rizkianur (No. 22)\n- Adre Arido (No. -)\n\n<b>Bek Tengah:</b>\n- Rizky Ridho (No. 5)\n- Hansamu Yama (No. 23)\n- Jordi Amat (No. -)\n- Dia Syayid (No. -)\n\n<b>Bek Kanan:</b>\n- Rio Fahmi (No. 2)\n- Fafa Sheva (No. -)\n- Alfriyanto Nico (No. -)\n\n<b>Bek Kiri:</b>\n- Alwi Fadillah (No. -)\n\n<b>Gelandang Bertahan:</b>\n- Hanif Sjahbandi (No. 19)\n- Sousa (No. -)\n- Fabio Silva (No. -)\n- Aditya Warman (No. 36)\n\n<b>Gelandang Tengah:</b>\n- Amar Fadzillah (No. -)\n- Refan Nadief (No. 74)\n\n<b>Gelandang Serang:</b>\n- Ryo Matsumura (No. 7)\n- Rayhan Hannan (No. 58)\n- Gustavo Franca (No. -)\n\n<b>Sayap Kiri:</b>\n- Witan (No. 78)\n- Dony Tri Pamungkas (No. 77)\n\n<b>Sayap Kanan:</b>\n- Zahaby Gholy (No. 66)\n- Agi Firmansyah (No. 90)\n\n<b>Penyerang Tengah:</b>\n- Eksel Runtukahu (No. -)\n- Gustavo (No. 70)"
+        "Daftar Pemain Persija Jakarta musim 2025/2026:\n\n<b>Kiper:</b>\n- Andritany (No. 26)\n- Carlos Eduardo (No. 1)\n- Hafizh Rizkianur (No. 22)\n- Adre Arido (No. -)\n\n<b>Bek Tengah:</b>\n- Rizky Ridho (No. 5)\n- Hansamu Yama (No. 23)\n- Jordi Amat (No. -)\n- Dia Syayid (No. -)\n\n<b>Bek Kanan:</b>\n- Rio Fahmi (No. 2)\n- Fafa Sheva (No. -)\n- Alfriyanto Nico (No. -)\n\n<b>Bek Kiri:</b>\n- Alwi Fadillah (No. -)\n\n<b>Gelandang Bertahan:</b>\n- Hanif Sjahbandi (No. 19)\n- Sousa (No. -)\n- Fabio Silva (No. -)\n- Aditya Warman (No. 36)\n\n<b>Gelandang Tengah:</b>\n- Amar Fadzillah (No. -)\n- Refan Nadief (No. 74)\n\n<b>Gelandang Serang:</b>\n- Ryo Matsumura (No. 7)\n- Rayhan Hannan (No. 58)\n- Gustavo Franca (No. 10)\n\n<b>Sayap Kiri:</b>\n- Witan (No. 78)\n- Dony Tri Pamungkas (No. 77)\n\n<b>Sayap Kanan:</b>\n- Zahaby Gholy (No. 66)\n- Agi Firmansyah (No. 90)\n\n<b>Penyerang Tengah:</b>\n- Eksel Runtukahu (No. -)\n- Gustavo (No. 70)"
       ]
+    },
+    {
+      "tag": "Pemain_Baru",
+      "patterns":[
+      "pemain baru masuk persija",
+      "rekrutan terbaru persija",
+      "pemain yang baru bergabung ke persija",
+      "rekrutan persija jakarta",
+      "transfermarket Persija musim ini"
+      ],
+      "responses":["Berikut daftar pemain baru Persija Jakarta musim 2025/2026:\n\n<b>Bek-Tengah:</b>\n- Jordi Amat\nAsal Klub: Johor Darul Ta'zim\n\n<b>Depan-Tengah:</b>\n- Eksel Runtukahu\nAsal Klub: PS Barito Putera\n\n<b>Gel-Bertahan:</b>\n- Sousa\nAsal Klub: Clube Náutico Capibaribe\n\n<b>Gel-Bertahan:</b>\n- Fabio Silva\nAsal Klub: AD Confiança\n\n<b>Gel-Serang:</b>\n- Gustavo Franca\nAsal Klub: Londrina"]
+    },
+    {
+      "tag":"Pemain_Keluar",
+      "patterns":[
+      "siapa pemain yang keluar dari persija",
+      "pemain persija yang pindah klub",
+      "siapa yang pindah",
+      "transfer keluar persija",
+      "pemain yang hengkang dari persija",
+      "daftar pemain yang cabut dari persija",
+      "siapa yang meninggalkan persija musim ini",
+      "pergi dari persija siapa aja",
+      "siapa pemain yang out"
+      ],
+      "responses":["Berikut daftar pemain Persija Jakarta yang keluar pada musim 2025/2026:\n\n- Muhammad Ferarri (Bek-Tengah) -> Bhayangkara FC\n- Firza Andika (Bek-Kiri) -> Bhayangkara FC\n- Maciej Gajos (Gelandang Serang) -> Tanpa Klub\n- Ramón Bueno (Gelandang Tengah) -> Tanpa Klub\n- Syahrian Abimanyu (Gelandang Tengah) -> Persik Kediri"]
     },
     {
       "tag": "TopScore",
@@ -639,14 +666,14 @@
     {
       "tag": "President_klub",
       "patterns": [
-      "siapa presiden klub Persija saat ini?",
+      "direktur umum",
       "nama presiden Persija terbaru?",
       "pimpinan tertinggi Persija siapa?",
       "presiden klub yang memimpin Persija sekarang?",
       "yang menjabat sebagai presiden Persija siapa?"
       ],
       "responses": [
-        "presiden klub persija saat ini adalah Mohamad Prapanca"
+        "presiden klub atau Direktur umum Persija saat ini adalah Mohamad Prapanca"
       ]
     },
     {
@@ -868,7 +895,7 @@
         "gelandang serang persija"
       ],
       "responses": [
-        "Gelandang serang Persija musim 2025/2026:\n- Ryo Matsumura\n- Rayhan Hannan"
+        "Gelandang serang Persija musim 2025/2026:\n- Ryo Matsumura\n- Rayhan Hannan\n- Gustavo Franca"
       ]
     },
     {
